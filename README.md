@@ -1,2 +1,3 @@
-# random_user_generator
-Generating random users with image / name / email
+# Random User Generator
+
+Small project for generating random users with image / name / email, using Vue.js
